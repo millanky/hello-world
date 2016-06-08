@@ -1,7 +1,7 @@
 # hello-world
-Just another repository
+Just another test
 
 
-This is just a test to see how GitHun works.
+This is just a test to see how GitHun works again
 
 salut!
